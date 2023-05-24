@@ -1364,3 +1364,4 @@
 2023-05-24T00:00:00 - 14 - Update project structure
 2023-05-24T00:00:00 - 15 - Adjust hyperparameters for better convergence
 2023-05-24T00:00:00 - 16 - Add comments to complex functions
+2023-05-24T00:00:00 - 17 - Clean up code and remove unused imports
