@@ -686,3 +686,4 @@
 2023-08-09T00:00:00 - 7 - Add support for new dataset
 2023-08-09T00:00:00 - 8 - Update dependencies in requirements.txt
 2023-08-09T00:00:00 - 9 - Fix issue with model saving and loading
+2023-08-17T00:00:00 - 0 - Optimize training loop
