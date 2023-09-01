@@ -699,3 +699,4 @@
 2023-09-01T00:00:00 - 5 - Add unit tests for core modules
 2023-09-01T00:00:00 - 6 - Fix issue with model saving and loading
 2023-09-01T00:00:00 - 7 - Add support for new dataset
+2023-09-01T00:00:00 - 8 - Update dependencies in requirements.txt
