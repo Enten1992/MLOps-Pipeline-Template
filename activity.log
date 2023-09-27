@@ -1442,3 +1442,4 @@
 2023-09-27T00:00:00 - 6 - Update dependencies in requirements.txt
 2023-09-27T00:00:00 - 7 - Improve error handling in API endpoints
 2023-09-27T00:00:00 - 8 - Add support for new dataset
+2023-09-27T00:00:00 - 9 - Add unit tests for core modules
