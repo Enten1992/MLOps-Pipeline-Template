@@ -1473,3 +1473,4 @@
 2023-12-14T00:00:00 - 5 - Optimize training loop
 2023-12-14T00:00:00 - 6 - Update documentation and README
 2023-12-14T00:00:00 - 7 - Add unit tests for core modules
+2023-12-14T00:00:00 - 8 - Add support for new dataset
