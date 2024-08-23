@@ -1646,3 +1646,4 @@
 2024-08-23T00:00:00 - 9 - Add unit tests for core modules
 2024-08-23T00:00:00 - 10 - Add support for new dataset
 2024-08-23T00:00:00 - 11 - Update documentation and README
+2024-08-23T00:00:00 - 12 - Update dependencies in requirements.txt
