@@ -155,3 +155,4 @@
 2025-01-10T00:00:00 - 14 - Update documentation and README
 2025-01-21T00:00:00 - 0 - Fix minor bugs in data preprocessing
 2025-01-21T00:00:00 - 1 - Add support for new dataset
+2025-01-21T00:00:00 - 2 - Adjust hyperparameters for better convergence
