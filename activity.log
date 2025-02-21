@@ -20,3 +20,4 @@
 2025-02-20T00:00:00 - Add comments to complex functions
 2025-02-20T00:00:00 - Update dependencies in requirements.txt
 2025-02-20T00:00:00 - Add support for new dataset
+2025-02-21T00:00:00 - Improve error handling in API endpoints
