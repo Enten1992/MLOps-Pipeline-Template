@@ -64,3 +64,4 @@
 2025-07-24T00:00:00 - Add support for new dataset
 2025-07-25T00:00:00 - Add unit tests for core modules
 2025-07-25T00:00:00 - Update dependencies in requirements.txt
+2025-07-25T00:00:00 - Improve error handling in API endpoints
