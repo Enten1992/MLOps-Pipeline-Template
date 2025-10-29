@@ -486,3 +486,4 @@
 2025-10-29T00:00:00 - 8 - Update project structure
 2025-10-29T00:00:00 - 9 - Update documentation and README
 2025-10-29T00:00:00 - 10 - Improve error handling in API endpoints
+2025-10-29T00:00:00 - 11 - Add unit tests for core modules
