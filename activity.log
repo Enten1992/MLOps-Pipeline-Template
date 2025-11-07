@@ -78,3 +78,4 @@
 2025-10-02T00:00:00 - Fix minor bugs in data preprocessing
 2025-11-07T00:00:00 - Fix minor bugs in data preprocessing
 2025-11-07T00:00:00 - Add support for new dataset
+2025-11-07T00:00:00 - Update dependencies in requirements.txt
